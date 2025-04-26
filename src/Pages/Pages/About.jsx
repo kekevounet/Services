@@ -1,4 +1,4 @@
-import me_info from '/home/kevin/Boss/Projet/Web/React/Service_Informatique/src/Assets/me_info.png'
+import me_info from '../../Assets/me_info.png';
 import NavBar from '../Composants/NavBar'
 import { motion } from 'framer-motion'
 function About () {
